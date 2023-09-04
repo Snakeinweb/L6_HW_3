@@ -1,4 +1,4 @@
-#
+# https://github.com/Snakeinweb/L6_HW_3
 
 a = int (input ())
 b = int (input ())
